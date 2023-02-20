@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "writing"
+date:   2023-02-20 09:23:20 +0530
+categories: blog
+---
+
+Just a test post that will be editted with something better (hopefully) so that I can re-read it.
