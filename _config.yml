@@ -28,7 +28,7 @@ twitter_username: vindiww
 github_username:  vindiw
 google_analytics: G-WYZERLJDSJ
 minima:
-  skin: dark
+  skin: auto
 
 # Build settings
 # theme: minima
