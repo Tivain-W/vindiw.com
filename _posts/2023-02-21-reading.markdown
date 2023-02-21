@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "reading"
+date:   2023-02-21 20:13:17 +0530
+categories: blog
+---
+
+I've been obsessed with reading lately, more specifically, obsessed to read about things that are even remotely related to startups. My favorites pieces of writing have been from who I'd consider the best experts on startups, such as, Paul Graham, Jessica Livingston, Sam Altman & Steve Blank. [^1]
+
+I've lost the knack I had for writing back when I was at school (an had a better attention span), preparing for the dreaded o level english paper. [^2] This has only gotten worse after years of instant messaging which makes writing on a piece of paper like this feel like a real chore [^3], but I'm optimistic that I'd be able to get better over time, provided I put a consistent effort to write.
+
+{% highlight text %}
+"Reading about x doesn't just teach you about x; 
+it also teaches you how to write." - Paul Graham
+{% endhighlight %}
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+[^1]: I keep coming across more writers I like (at least that has been the trend so far), I'll probably update the names here or in a separate page.
+
+[^2]: I didn't dread it as much as others (I think). Probably because I kind of enjoyed writing, although the topics weren't the most exciting things to write about.
+
+[^3]: Well, technically this time around I typed what I wrote on a piece of paper earlier :)
