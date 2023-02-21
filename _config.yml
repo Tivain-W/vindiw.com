@@ -28,7 +28,7 @@ twitter_username: vindiww
 github_username:  vindiw
 google_analytics: G-WYZERLJDSJ
 minima:
-  skin: light
+  skin: classic
   social_links:
     - { platform: github,  user_url: "https://github.com/vindiw" }
     - { platform: twitter, user_url: "https://twitter.com/vindiww" }
