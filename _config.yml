@@ -27,8 +27,11 @@ url: "http://vindiw.com" # the base hostname & protocol for your site, e.g. http
 twitter_username: vindiww
 github_username:  vindiw
 google_analytics: G-WYZERLJDSJ
+minima:
+  skin: dark
 
 # Build settings
+# theme: minima
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
