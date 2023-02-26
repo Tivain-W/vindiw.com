@@ -17,5 +17,8 @@ Then I was joking, ykw, at this rate we'll see 10, and that soon turned to "I ai
 
 After waiting some more time for the 11th satellite, we came in. Thaththi told me about a nice song called "Sleeping Satellite" (I'm listening to it again rn (even now as I type the initial writted draft)) & now it's high time for me to head downstairs for dinner, since I'm almost at the end of my 3rd page in this notebook (doesn't make sense on my blog, but who cares). I'm going to type this and post on my blog after I'm back from dinner (same as what I said in my previous parenthesis). I'll probably take this (notebook) downstairs to show thaththi. And now I'm at the line before last line on this notebook(again same story as my previous parenthesis). Almost forgot, I want to see what the satellite sees from up there by sending my own & then going up there on my own one day!
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 Thank you Thaththi (Harsha Wijesooriya) & Ammi (Manori Wijesooriya) for reading drafts of this.
