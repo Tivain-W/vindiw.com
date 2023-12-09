@@ -2,6 +2,7 @@
 layout: post
 title:  "starting to write weekly updates"
 date:   2023-10-22 23:45:00 +0530
+author: Vindiw Wijesooriya
 categories: blog
 ---
 
