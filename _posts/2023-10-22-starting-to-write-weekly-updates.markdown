@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "starting to write weekly updates"
+subtitle: "probably going to be a nice way to look back at how things have unfolded over time"
 date:   2023-10-22 23:45:00 +0530
 author: Vindiw Wijesooriya
 categories: blog
