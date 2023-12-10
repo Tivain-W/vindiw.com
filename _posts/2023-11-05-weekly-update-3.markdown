@@ -4,6 +4,7 @@ title: "weekly update #3"
 subtitle: "another small weekly update :)"
 author: Vindiw Wijesooriya
 date: 2023-11-05 23:45:00 +0530
+categories: blog
 ---
 
 submitted my 41st weekly update to startup school.

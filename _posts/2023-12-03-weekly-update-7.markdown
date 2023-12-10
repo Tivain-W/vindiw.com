@@ -4,6 +4,7 @@ title: "weekly update #7"
 subtitle: "another week, another update."
 date: 2023-12-03 23:55 +0530
 author: Vindiw Wijesooriya
+categories: blog
 ---
 
 ### startup

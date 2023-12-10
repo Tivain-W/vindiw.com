@@ -4,6 +4,7 @@ title: "weekly update #6"
 subtitle: "dramatic start of the week."
 date: 2023-11-26 23:59 +0530
 author: Vindiw Wijesooriya
+categories: blog
 ---
 
 ### startup

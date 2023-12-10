@@ -4,6 +4,7 @@ title: "weekly update #2"
 subtitle: "a quick update on this week"
 date: 2023-10-29 23:45:00 +0530
 author: Vindiw Wijesooriya
+categories: blog
 ---
 
 just submitted my 40th weekly update to Startup School.

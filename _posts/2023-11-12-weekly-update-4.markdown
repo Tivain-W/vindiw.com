@@ -4,6 +4,7 @@ title: "weekly update #4"
 subtitle: "another weekly update from an interesting week."
 date: 2023-11-12 23:45 +0530
 author: Vindiw Wijesooriya
+categories: blog
 ---
 
 ## 42nd startup school update!

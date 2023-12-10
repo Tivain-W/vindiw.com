@@ -4,6 +4,7 @@ title: "weekly update #5"
 subtitle: "what. a. week."
 date: 2023-11-19 23:59 +0530
 author: Vindiw Wijesooriya
+categories: blog
 ---
 
 ### highlight
