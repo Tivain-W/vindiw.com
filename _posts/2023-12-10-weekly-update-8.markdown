@@ -25,9 +25,9 @@ submitted my 46th startup school weekly update, I used to feel anxious through t
 
 ### stuff I read (and/or watched) this week
 
-- How to build an AI-powered company from Ben’s Bites - https://bensbites.beehiiv.com/p/build-aipowered-company
-- The Capability Gap, Gut-Brain Connection, & More by Sahil Bloom - https://www.sahilbloom.com/newsletter/the-capability-gap-gut-brain-connection-more
-- Awesome mini-doc of Garry Tan from [Christian Keil](https://twitter.com/pronounced_kyle) -https://twitter.com/pronounced_kyle/status/1733517895031001468
+- How to build an AI-powered company from Ben’s Bites - [https://bensbites.beehiiv.com/p/build-aipowered-company](https://bensbites.beehiiv.com/p/build-aipowered-company)
+- The Capability Gap, Gut-Brain Connection, & More by Sahil Bloom - [https://www.sahilbloom.com/newsletter/the-capability-gap-gut-brain-connection-more](https://www.sahilbloom.com/newsletter/the-capability-gap-gut-brain-connection-more)
+- Awesome mini-doc of Garry Tan from [Christian Keil](https://twitter.com/pronounced_kyle) - [https://twitter.com/pronounced_kyle/status/1733517895031001468](https://twitter.com/pronounced_kyle/status/1733517895031001468)
 
 ### the end
 
