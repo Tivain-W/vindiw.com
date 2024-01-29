@@ -20,7 +20,7 @@ submitted my 49th startup school weekly update :)
 
 ### stuff I read (and/or watched) this week
 
-strategies for becoming less distractible and improving focus | Nir Eyal on Lenny’s Podcast - [https://youtu.be/WSscIIY609c](https://youtu.be/WSscIIY609c)
+strategies for becoming less distractible and improving focus / Nir Eyal on Lenny’s Podcast - [https://youtu.be/WSscIIY609c](https://youtu.be/WSscIIY609c)
 
 commit to competence in this coming year by DHH - [https://world.hey.com/dhh/picking-a-purpose-bd8ff341](https://world.hey.com/dhh/picking-a-purpose-bd8ff341)
 
