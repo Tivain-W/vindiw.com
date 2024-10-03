@@ -21,7 +21,7 @@
 title: vindiw
 email: vindiw@vindiw.com
 description: >- # this means to ignore newlines until "baseurl:"
-  my home on the cyber space (description from my 1st blog, till I add something new).
+  my notes
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vindiw.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vindiww
